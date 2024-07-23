@@ -6,7 +6,7 @@ Tech Stack : HTML, CSS and Javascript.
 
 ![App Screenshot](Screenshots/AboutMe.png)
 
-![App Screenshot](Personal-Portfolio-Website-Design\Screenshots\Portfolio.png)
+![App Screenshot](Screenshots/Portfolio.png)
 
-![App Screenshot](Personal-Portfolio-Website-Design\Screenshots\Resume.png)
+![App Screenshot](Screenshots/Resume.png)
 
